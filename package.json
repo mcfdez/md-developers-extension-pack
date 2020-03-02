@@ -4,9 +4,7 @@
     "description": "Set of Visual Code packages specially selected for development in Massimo Dutti",
     "publisher": "MassimoDuttiDevelopers",
     "version": "0.0.1",
-    "repository": {
-        "https://github.com/mcfdez/md-developers-extension-pack"
-    },
+    "repository": "https://github.com/mcfdez/md-developers-extension-pack",
     "engines": {
         "vscode": "^1.42.0"
     },
