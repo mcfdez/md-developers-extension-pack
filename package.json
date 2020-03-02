@@ -1,0 +1,28 @@
+{
+    "name": "md-developers-extension-pack",
+    "displayName": "MD Developers Extension Pack",
+    "description": "Set of Visual Code packages specially selected for development in Massimo Dutti",
+    "publisher": "MassimoDuttiDevelopers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "lperdomo.angular1-code-snippets-johnpapastyle",
+        "michaelisom.angularjs-template-autocomplete",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "ms-azuretools.vscode-docker",
+        "EditorConfig.EditorConfig",
+        "dbaeumer.vscode-eslint",
+        "sleistner.vscode-fileutils",
+        "dcortes92.FreeMarker",
+        "eamodio.gitlens",
+        "ms-vscode-remote.remote-containers",
+        "Equinusocio.vsc-material-theme",
+        "HookyQR.beautify",
+        "Equinusocio.vsc-material-theme-icons"
+    ]
+}
