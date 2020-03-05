@@ -3,7 +3,7 @@
     "displayName": "MD Developers Extension Pack",
     "description": "Set of Visual Code packages specially selected for development in Massimo Dutti",
     "publisher": "MassimoDuttiDevelopers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": "https://github.com/mcfdez/md-developers-extension-pack",
     "engines": {
         "vscode": "^1.42.0"
@@ -24,6 +24,7 @@
         "ms-vscode-remote.remote-containers",
         "Equinusocio.vsc-material-theme",
         "HookyQR.beautify",
-        "Equinusocio.vsc-material-theme-icons"
+        "Equinusocio.vsc-material-theme-icons",
+        "dbaeumer.jshint"
     ]
 }
